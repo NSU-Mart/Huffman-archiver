@@ -39,6 +39,7 @@ To encode a file, type encode in the operation selection line (it should look li
 - `main.c`: Main source code file containing the user interface logic.
 - `huffman.h`: Header file containing structure and function definitions for the Huffman algorithm.
 - `huffman.c`: Source code file containing the implementation of the Huffman algorithm.
+- `122.txt`: Sample file for encoding
 
 ## Authors
 - Artem Martynov, 1st year student of IIR NSU
